@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*egg-info/
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+.venv/
+
+# Git
+.git
+.gitignore
+
+# Notebooks
+*.ipynb
+
+# Data files
+*.xlsx
+
+# Model files
+
+
+# IDE / Editor specific
+.vscode/
+.idea/
