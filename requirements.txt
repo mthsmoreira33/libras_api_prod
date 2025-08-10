@@ -2,4 +2,5 @@ flask
 torch
 torchvision
 pillow
+gunicorn
 

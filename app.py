@@ -47,7 +47,5 @@ def predict():
 
     return render_template('index.html', prediction=label, img_data=img_str)
 
-if __name__ == '__main__':
-    # debug=True recarrega ao editar o template
-    app.run(host='0.0.0.0', port=5000, debug=True)
+
 
